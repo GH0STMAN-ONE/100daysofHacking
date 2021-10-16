@@ -13,7 +13,7 @@ Sorry, but due to College consulling I'm not give my best.
 
 # Extras :
 <details>
-<summary> Read an writeup of pbctf Advancement challenge </summar>
+<summary> Read an writeup of pbctf Advancement challenge </summary>
 
 - There is something about in cookie I know today.
 - The cookie can be also in base64 with some components and they have ** . ** to seprate cookie from a base64 code
